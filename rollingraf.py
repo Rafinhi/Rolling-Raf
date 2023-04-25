@@ -10,7 +10,7 @@ pygame.display.set_caption("Rolling Raf")
 
 
 WIDTH, HEIGHT = 1000,800
-FPS = 60 #todo: scale up to 144 fps for PC enjoyers - revoked due to me not having 144 hz monitor
+FPS = 60 #todo: scale up to 144 fps for PC enjoyers - revoked due to me not having 144 hz monitor - or perhaps?
 PLAYER_VEL = 5
 
 window = pygame.display.set_mode ((WIDTH, HEIGHT))
